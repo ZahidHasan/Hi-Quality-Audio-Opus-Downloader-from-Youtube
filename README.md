@@ -1,8 +1,8 @@
-## Introducion
+## 💕Introducion
 
 A sleek, local, web-based graphical user interface (GUI) for yt-dlp, purpose-built for extracting high-fidelity audio from YouTube videos. Built using Python and NiceGUI, this tool provides an elegant dark-themed dashboard to streamline downloading, format conversion, and automated metadata embedding.
 
-## �� Acknowledgments & Credits
+## 💖 Acknowledgments & Credits
 
 This project is a graphical wrapper that relies heavily on the incredible work of the open-source community. Special thanks to:
 
@@ -12,7 +12,7 @@ This project is a graphical wrapper that relies heavily on the incredible work o
 
 
 
-## ?�� Screenshots
+##📸 Screenshots
 
 ![Opus Downloadr](/assets/YT-DLP-gui.png)
 
@@ -32,11 +32,11 @@ This project is a graphical wrapper that relies heavily on the incredible work o
 
 7. Duplicate Detection: Smart parsing to check if the target file already exists in your destination directory before re-downloading.
 
-## �� Implementation Preview
+## Implementation Preview
 
 When a download is processed, the system handles the extraction, converts the artwork, and packages everything cleanly into a single file:
 
-## ��?�? Requirements & Dependencies
+## Requirements & Dependencies
 
 Before running the application, make sure you have the necessary system binaries and Python packages installed:
 
@@ -46,7 +46,7 @@ Python Packages: Install the required libraries via pip:
 
 2. pip install nicegui yt-dlp mutagen
 
-## ?�� Getting Started
+## Getting Started
 
 1. **Clone the Repository:**
    
@@ -55,11 +55,11 @@ Python Packages: Install the required libraries via pip:
    cd YOUR_REPOSITORY_NAME
    ```
    
-   ## Run the Application:
+## Run the Application:
    
    Once executed, NiceGUI will automatically spin up a local server.
 
-## ?�� How To Use
+## How To Use
 
 1. Paste Link: Input your target YouTube video or playlist URL into the Paste YouTube Video URL text area.
 
@@ -71,11 +71,11 @@ Python Packages: Install the required libraries via pip:
 
 5. Monitor: Watch the Active Logs / yt-dlp Console Output section at the bottom for real-time status updates until the progress bar signals completion.
 
-## �? Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to submit a pull request or suggest modifications (like dynamic path picking or real-time progress bar parsing).
 
-## �� License
+## License
 
 This project is open-source and available under the MIT License.
 
@@ -83,5 +83,4 @@ Please consider starring their repositories if you find this tool useful!
 
 ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PowerShell Automation](https://img.shields.io/badge/PowerShell-Automated-lightblue)
-
 ![PowerShell Automation](https://img.shields.io/badge/python)
