@@ -36,7 +36,7 @@ This project is a graphical wrapper that relies heavily on the incredible work o
 
 When a download is processed, the system handles the extraction, converts the artwork, and packages everything cleanly into a single file:
 
-## Requirements & Dependencies
+## 🎭 Requirements & Dependencies
 
 Before running the application, make sure you have the necessary system binaries and Python packages installed:
 
@@ -46,7 +46,7 @@ Python Packages: Install the required libraries via pip:
 
 2. pip install nicegui yt-dlp mutagen
 
-## Getting Started
+## 👣 Getting Started
 
 1. **Clone the Repository:**
    
@@ -59,7 +59,7 @@ Python Packages: Install the required libraries via pip:
    
    Once executed, NiceGUI will automatically spin up a local server.
 
-## How To Use
+## 👌ow To Use
 
 1. Paste Link: Input your target YouTube video or playlist URL into the Paste YouTube Video URL text area.
 
@@ -71,11 +71,11 @@ Python Packages: Install the required libraries via pip:
 
 5. Monitor: Watch the Active Logs / yt-dlp Console Output section at the bottom for real-time status updates until the progress bar signals completion.
 
-## Contributing
+## 🧬Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to submit a pull request or suggest modifications (like dynamic path picking or real-time progress bar parsing).
 
-## License
+## 🪪 icense
 
 This project is open-source and available under the MIT License.
 
