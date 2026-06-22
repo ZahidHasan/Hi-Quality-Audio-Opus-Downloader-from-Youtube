@@ -12,7 +12,8 @@ Please consider starring their repositories if you find this tool useful!
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![PowerShell Automation](https://img.shields.io/badge/PowerShell-Automated-lightblue)
-![Python](https://shields.io)
+![Static Badge](https://img.shields.io/badge/python)
+
 
 ## 📸 Screenshots
 ![Opus Downloadr](/assets/YT-DLP-gui.png)
